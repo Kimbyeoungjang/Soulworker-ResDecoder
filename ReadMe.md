@@ -3,7 +3,7 @@
 
 重組副本內劇情
 
-需要：
+Require :
 ```
 Setting.ini
 tb_cinema_string.txt
@@ -13,9 +13,9 @@ Scripts\CinemaTalk\*.xml
 
 ## ResDecoder
 
-解碼 `*.res`
+Decoding `*.res` files
 
-支援：
+Current Support：
 ```
 tb_Achievement_Script.res
 tb_Akashic_Parts.res
@@ -58,9 +58,9 @@ tb_ui_string.res
 
 ## SkillParser
 
-技能分析
+Skill Analysis
 
-需要：
+Require：
 ```
 tb_Skill_Script.txt
 tb_Skill.txt
@@ -68,9 +68,9 @@ tb_Skill.txt
 
 ## TitleParser
 
-稱號重組
+Namatag Decoder
 
-需要：
+Require：
 ```
 Setting.json
 Tb_Title_Info.txt
