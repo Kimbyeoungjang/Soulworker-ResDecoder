@@ -3,7 +3,7 @@
     partial class Form1
     {
         /// <summary>
-        /// 設計工具所需的變數。
+        /// Variable
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
